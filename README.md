@@ -32,4 +32,4 @@ which has a built in getMin. My getNext() is basically a getMin, and I feel like
 2) The runtime for dijkstra is O(VE) because there are two for-loops, one that goes through keySet and one that goes through the adjacent edges.  
 3) The runtime for getNext is O(V) because I go through all nodes and find the minimum.
 
-<img src="/Street-Mapping/monroe_screenshot.png" width="400" height="400">
+<img src="monroe_screenshot.png" width="400" height="400">
