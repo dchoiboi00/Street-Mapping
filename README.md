@@ -34,4 +34,5 @@ which has a built in getMin. My getNext() is basically a getMin, and I feel like
 
 
 Screenshot of monroe.txt, Monroe County, NY
+
 <img src="monroe_screenshot.png" width="400" height="400">
